@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Kirill
-- 👀 I’m interested in ... indie game development, VR/AR
-- 🌱 I’m currently learning C# and Unity Engine
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://linktr.ee/Inspirify.me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
 
 <!---
 1nspirify/1nspirify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
